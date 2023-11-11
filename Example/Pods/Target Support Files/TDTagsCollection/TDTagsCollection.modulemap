@@ -1,0 +1,6 @@
+framework module TDTagsCollection {
+  umbrella header "TDTagsCollection-umbrella.h"
+
+  export *
+  module * { export * }
+}
