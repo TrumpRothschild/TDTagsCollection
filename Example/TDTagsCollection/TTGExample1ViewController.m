@@ -1,28 +1,23 @@
 //
-//  TDViewController.m
-//  TDTagsCollection
+//  TTGExample1ViewController.m
+//  TTGTagCollectionView
 //
-//  Created by TrumpRothschild on 11/11/2023.
-//  Copyright (c) 2023 TrumpRothschild. All rights reserved.
+//  Created by trumprothschild on 15/12/29.
+//  Copyright (c) 2019 trumprothschild. All rights reserved.
 //
 
-#import "TDViewController.h"
-#import <TDTagsCollection/TDTagsCollection-umbrella.h>
-#import <TDTagsCollection/TTGTextTag.h>
+#import <TDTagsCollection/TTGTextTagCollectionView.h>
+#import "TTGExample1ViewController.h"
 
-
-@interface TDViewController ()
-
+@interface TTGExample1ViewController () <TTGTextTagCollectionViewDelegate>
 @property (weak, nonatomic) IBOutlet TTGTextTagCollectionView *textTagCollectionView1;
 @property (weak, nonatomic) IBOutlet TTGTextTagCollectionView *textTagCollectionView2;
 @property (weak, nonatomic) IBOutlet UILabel *logLabel;
 
 @property (strong, nonatomic) NSArray *tags;
-
 @end
 
-@implementation TDViewController
-
+@implementation TTGExample1ViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];

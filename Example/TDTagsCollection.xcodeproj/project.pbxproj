@@ -22,6 +22,16 @@
 		6003F5BC195388D20070C39A /* Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6003F5BB195388D20070C39A /* Tests.m */; };
 		71719F9F1E33DC2100824A3D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71719F9D1E33DC2100824A3D /* LaunchScreen.storyboard */; };
 		873B8AEB1B1F5CCA007FD442 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 873B8AEA1B1F5CCA007FD442 /* Main.storyboard */; };
+		A428E6632AFFB36600F344A0 /* TTGExample7ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A428E64D2AFFB36500F344A0 /* TTGExample7ViewController.m */; };
+		A428E6642AFFB36600F344A0 /* TTGExample4TableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = A428E64F2AFFB36500F344A0 /* TTGExample4TableViewCell.m */; };
+		A428E6652AFFB36600F344A0 /* TTGExample6ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A428E6512AFFB36500F344A0 /* TTGExample6ViewController.m */; };
+		A428E6662AFFB36600F344A0 /* TTGExample4ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A428E6532AFFB36500F344A0 /* TTGExample4ViewController.m */; };
+		A428E6672AFFB36600F344A0 /* TTGExample2ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A428E6542AFFB36500F344A0 /* TTGExample2ViewController.m */; };
+		A428E6682AFFB36600F344A0 /* TTGExample8ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A428E6552AFFB36500F344A0 /* TTGExample8ViewController.m */; };
+		A428E6692AFFB36600F344A0 /* TTGExample3ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A428E6562AFFB36500F344A0 /* TTGExample3ViewController.m */; };
+		A428E66A2AFFB36600F344A0 /* TTGExample9ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A428E6582AFFB36500F344A0 /* TTGExample9ViewController.m */; };
+		A428E66C2AFFB36600F344A0 /* TTGExample5ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A428E65D2AFFB36600F344A0 /* TTGExample5ViewController.m */; };
+		A428E66D2AFFB36600F344A0 /* TTGExample1ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A428E6602AFFB36600F344A0 /* TTGExample1ViewController.m */; };
 		ABF5BA4C7605D9F00B72568A /* Pods_TDTagsCollection_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 63E838B179B6E8C9E1356839 /* Pods_TDTagsCollection_Tests.framework */; };
 		B6B7B1372A5D34A19CE7201C /* Pods_TDTagsCollection_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1853E91081B141260EA303BC /* Pods_TDTagsCollection_Example.framework */; };
 /* End PBXBuildFile section */
@@ -66,6 +76,26 @@
 		8B8B800C2DB74970261837D3 /* Pods-TDTagsCollection_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TDTagsCollection_Tests.debug.xcconfig"; path = "Target Support Files/Pods-TDTagsCollection_Tests/Pods-TDTagsCollection_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		8F3A3D08E415B8ED764C3243 /* Pods-TDTagsCollection_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TDTagsCollection_Example.release.xcconfig"; path = "Target Support Files/Pods-TDTagsCollection_Example/Pods-TDTagsCollection_Example.release.xcconfig"; sourceTree = "<group>"; };
 		9C38DBABE21CC21A8FD08E01 /* TDTagsCollection.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = TDTagsCollection.podspec; path = ../TDTagsCollection.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		A428E64D2AFFB36500F344A0 /* TTGExample7ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTGExample7ViewController.m; sourceTree = "<group>"; };
+		A428E64E2AFFB36500F344A0 /* TTGExample4TableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTGExample4TableViewCell.h; sourceTree = "<group>"; };
+		A428E64F2AFFB36500F344A0 /* TTGExample4TableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTGExample4TableViewCell.m; sourceTree = "<group>"; };
+		A428E6502AFFB36500F344A0 /* TTGExample8ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTGExample8ViewController.h; sourceTree = "<group>"; };
+		A428E6512AFFB36500F344A0 /* TTGExample6ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTGExample6ViewController.m; sourceTree = "<group>"; };
+		A428E6522AFFB36500F344A0 /* TTGExample2ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTGExample2ViewController.h; sourceTree = "<group>"; };
+		A428E6532AFFB36500F344A0 /* TTGExample4ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTGExample4ViewController.m; sourceTree = "<group>"; };
+		A428E6542AFFB36500F344A0 /* TTGExample2ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTGExample2ViewController.m; sourceTree = "<group>"; };
+		A428E6552AFFB36500F344A0 /* TTGExample8ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTGExample8ViewController.m; sourceTree = "<group>"; };
+		A428E6562AFFB36500F344A0 /* TTGExample3ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTGExample3ViewController.m; sourceTree = "<group>"; };
+		A428E6572AFFB36500F344A0 /* TTGExample3ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTGExample3ViewController.h; sourceTree = "<group>"; };
+		A428E6582AFFB36500F344A0 /* TTGExample9ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTGExample9ViewController.m; sourceTree = "<group>"; };
+		A428E65B2AFFB36600F344A0 /* TTGExample6ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTGExample6ViewController.h; sourceTree = "<group>"; };
+		A428E65C2AFFB36600F344A0 /* TTGExample4ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTGExample4ViewController.h; sourceTree = "<group>"; };
+		A428E65D2AFFB36600F344A0 /* TTGExample5ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTGExample5ViewController.m; sourceTree = "<group>"; };
+		A428E65E2AFFB36600F344A0 /* TTGExample7ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTGExample7ViewController.h; sourceTree = "<group>"; };
+		A428E65F2AFFB36600F344A0 /* TTGExample9ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTGExample9ViewController.h; sourceTree = "<group>"; };
+		A428E6602AFFB36600F344A0 /* TTGExample1ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTGExample1ViewController.m; sourceTree = "<group>"; };
+		A428E6612AFFB36600F344A0 /* TTGExample5ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTGExample5ViewController.h; sourceTree = "<group>"; };
+		A428E6622AFFB36600F344A0 /* TTGExample1ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TTGExample1ViewController.h; sourceTree = "<group>"; };
 		E7BB87EE482F83B105EA96A7 /* Pods-TDTagsCollection_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TDTagsCollection_Example.debug.xcconfig"; path = "Target Support Files/Pods-TDTagsCollection_Example/Pods-TDTagsCollection_Example.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -148,6 +178,26 @@
 				873B8AEA1B1F5CCA007FD442 /* Main.storyboard */,
 				6003F5A5195388D20070C39A /* TDViewController.h */,
 				6003F5A6195388D20070C39A /* TDViewController.m */,
+				A428E6622AFFB36600F344A0 /* TTGExample1ViewController.h */,
+				A428E6602AFFB36600F344A0 /* TTGExample1ViewController.m */,
+				A428E6522AFFB36500F344A0 /* TTGExample2ViewController.h */,
+				A428E6542AFFB36500F344A0 /* TTGExample2ViewController.m */,
+				A428E6572AFFB36500F344A0 /* TTGExample3ViewController.h */,
+				A428E6562AFFB36500F344A0 /* TTGExample3ViewController.m */,
+				A428E64E2AFFB36500F344A0 /* TTGExample4TableViewCell.h */,
+				A428E64F2AFFB36500F344A0 /* TTGExample4TableViewCell.m */,
+				A428E65C2AFFB36600F344A0 /* TTGExample4ViewController.h */,
+				A428E6532AFFB36500F344A0 /* TTGExample4ViewController.m */,
+				A428E6612AFFB36600F344A0 /* TTGExample5ViewController.h */,
+				A428E65D2AFFB36600F344A0 /* TTGExample5ViewController.m */,
+				A428E65B2AFFB36600F344A0 /* TTGExample6ViewController.h */,
+				A428E6512AFFB36500F344A0 /* TTGExample6ViewController.m */,
+				A428E65E2AFFB36600F344A0 /* TTGExample7ViewController.h */,
+				A428E64D2AFFB36500F344A0 /* TTGExample7ViewController.m */,
+				A428E6502AFFB36500F344A0 /* TTGExample8ViewController.h */,
+				A428E6552AFFB36500F344A0 /* TTGExample8ViewController.m */,
+				A428E65F2AFFB36600F344A0 /* TTGExample9ViewController.h */,
+				A428E6582AFFB36500F344A0 /* TTGExample9ViewController.m */,
 				71719F9D1E33DC2100824A3D /* LaunchScreen.storyboard */,
 				6003F5A8195388D20070C39A /* Images.xcassets */,
 				6003F594195388D20070C39A /* Supporting Files */,
@@ -389,9 +439,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A428E66A2AFFB36600F344A0 /* TTGExample9ViewController.m in Sources */,
 				6003F59E195388D20070C39A /* TDAppDelegate.m in Sources */,
 				6003F5A7195388D20070C39A /* TDViewController.m in Sources */,
+				A428E6682AFFB36600F344A0 /* TTGExample8ViewController.m in Sources */,
+				A428E6672AFFB36600F344A0 /* TTGExample2ViewController.m in Sources */,
+				A428E66C2AFFB36600F344A0 /* TTGExample5ViewController.m in Sources */,
+				A428E6662AFFB36600F344A0 /* TTGExample4ViewController.m in Sources */,
+				A428E6692AFFB36600F344A0 /* TTGExample3ViewController.m in Sources */,
+				A428E66D2AFFB36600F344A0 /* TTGExample1ViewController.m in Sources */,
 				6003F59A195388D20070C39A /* main.m in Sources */,
+				A428E6632AFFB36600F344A0 /* TTGExample7ViewController.m in Sources */,
+				A428E6652AFFB36600F344A0 /* TTGExample6ViewController.m in Sources */,
+				A428E6642AFFB36600F344A0 /* TTGExample4TableViewCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

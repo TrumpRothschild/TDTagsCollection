@@ -19,7 +19,6 @@
 #import "TTGTextTagStringContent.h"
 #import "TTGTextTagStyle.h"
 
-
 FOUNDATION_EXPORT double TDTagsCollectionVersionNumber;
 FOUNDATION_EXPORT const unsigned char TDTagsCollectionVersionString[];
 
